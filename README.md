@@ -43,4 +43,4 @@ Em 2023 decidi iniciar meus estudos para abrir portas à nova carreira no univer
 ![image](https://github.com/user-attachments/assets/fef0404f-6234-4dfa-a7b1-349c5a02f9ef)
 ![image](https://github.com/user-attachments/assets/6f035524-8c23-4a9c-9915-727bad9b8109)
 
-<details>
+
