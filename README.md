@@ -1,12 +1,12 @@
 ### Olá, sou Mateus 👋
 
-Atualmente sou estudante para me tornar **Desenvolvedor Web Full-Stack** e sou bacharel em **Engenharia de Produção**.
+Sou formado como **Desenvolvedor Web Full-Stack** e bacharel em **Engenharia de Produção**.
 
 Trabalho desde 2010 com tecnologia. Alguns de meus websites fizeram parte de grandes portais, como Band e R7. Com estes projetos consegui somar mais de 4 milhões de seguidores em páginas nas redes sociais. 
 
 Em 2023 decidi iniciar meus estudos para abrir portas à nova carreira no universo dos códigos de programação!
 
-- 📚 Atualmente sou estudante em desenvolvimento web Full Stack pela Driven Educacional;
+- 📚 Atualmente sou Desenvolvedor Web Full Stack formado e certificado pela Driven Educacional;
 - ✍️ Meu portifólio pode ser acessado [aqui](https://github.com/MateusIasbik?tab=repositories)!
 
 ---
