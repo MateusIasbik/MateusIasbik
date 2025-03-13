@@ -24,4 +24,4 @@ Em 2023 decidi iniciar meus estudos para abrir portas à nova carreira no univer
 ![image](https://github.com/user-attachments/assets/0c5f2519-4e5b-43b7-a4d8-a9517d5b5054)
 ![image](https://github.com/user-attachments/assets/59625fae-a3bc-4109-9b59-8a02445d0ab2)
 ![image](https://github.com/user-attachments/assets/91ff6a88-882b-49cb-beb0-db66fa44e603)
-
+![Java](https://img.shields.io/badge/Java-FF0000?logo=java&logoColor=white)
