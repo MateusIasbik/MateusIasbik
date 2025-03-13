@@ -31,6 +31,7 @@ Em 2023 decidi iniciar meus estudos para abrir portas à nova carreira no univer
   <summary>🖥️ Mais algumas tecnologias: </summary><br>
   
 ![image](https://github.com/user-attachments/assets/6c524339-6dc9-42e6-867f-58f242f706fc)
+![image](https://github.com/user-attachments/assets/89d6f5dd-0791-4f6f-bf71-4d7ef82dc1ac)
 ![image](https://github.com/user-attachments/assets/4cbf23d6-41c5-44a9-9636-728cc985e1de)
 ![image](https://github.com/user-attachments/assets/da02a318-7a4c-4ae1-954d-ddd14467cee5)
 ![image](https://github.com/user-attachments/assets/88043dc9-3f46-45c4-aa4e-289ef0d0c4e2)
