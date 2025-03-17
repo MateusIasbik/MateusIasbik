@@ -26,12 +26,13 @@ Em 2023 decidi iniciar meus estudos para abrir portas à nova carreira no univer
 ![image](https://github.com/user-attachments/assets/0c5f2519-4e5b-43b7-a4d8-a9517d5b5054)
 ![image](https://github.com/user-attachments/assets/59625fae-a3bc-4109-9b59-8a02445d0ab2)
 ![image](https://github.com/user-attachments/assets/91ff6a88-882b-49cb-beb0-db66fa44e603)
-![Java](https://img.shields.io/badge/Java-FF0000?logo=java&logoColor=white)
 
 
 <details>
   <summary>🖥️ Mais algumas tecnologias: </summary><br>
-  
+
+
+![Java](https://img.shields.io/badge/Java-FF0000?logo=java&logoColor=white)
 ![image](https://github.com/user-attachments/assets/6c524339-6dc9-42e6-867f-58f242f706fc)
 ![image](https://github.com/user-attachments/assets/4cbf23d6-41c5-44a9-9636-728cc985e1de)
 ![image](https://github.com/user-attachments/assets/da02a318-7a4c-4ae1-954d-ddd14467cee5)
